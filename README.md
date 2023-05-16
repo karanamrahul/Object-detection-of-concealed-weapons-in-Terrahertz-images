@@ -1,5 +1,20 @@
 # Object-detection-of-concealed-weapons-in-Terrahertz-images
 
+<div align="center">
+  <img src="https://github.com/karanamrahul/Object-detection-of-concealed-weapons-in-Terrahertz-images/blob/main/result/logo.png?sanitize=true" width="110" height="110"/>
+  <br/>
+  <br/>
+  <br/>
+  
+  <img src="https://github.com/karanamrahul/Object-detection-of-concealed-weapons-in-Terrahertz-images/blob/main/result/example.jpg?sanitize=true" width="400" height="300"/>
+  <img src="https://github.com/karanamrahul/Object-detection-of-concealed-weapons-in-Terrahertz-images/blob/main/result/example_2.jpg?sanitize=true" width="400" height="300"/>
+    
+    
+</div>
+
+<br/>
+<br/>
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
