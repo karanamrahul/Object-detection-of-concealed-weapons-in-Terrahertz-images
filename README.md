@@ -117,6 +117,20 @@ python3 draw.py
 ```
 
 
+
+
+
+#### YOLOV5 Training and Prediction
+
+<div align="center">
+  <img src="https://github.com/karanamrahul/Object-detection-of-concealed-weapons-in-Terrahertz-images/blob/main/result/train_batch2.jpg?sanitize=true" width="400" height="300"/>
+  <br/>
+  <br/>
+  <img src="https://github.com/karanamrahul/Object-detection-of-concealed-weapons-in-Terrahertz-images/blob/main/result/val_batch2_labels.jpg?sanitize=true" width="400" height="300"/>
+</div>
+
+
+
 ### Credits
 
 - [Active Terahertz Imaging Datasets
